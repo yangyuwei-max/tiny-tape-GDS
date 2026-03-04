@@ -8,12 +8,13 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
+The two input of the AND gate is connected to inputs IN0 and IN1. the output of the AND is connected to OUT0.
+switching on the IN0 and IN1 following binary order gives you the function of AND gate.
 
-Explain how your project works
 
 ## How to test
+switch on/off IN0 and IN1 following binary order (e.g. 00,01,10,11)
 
-Explain how to use your project
 
 ## External hardware
 
