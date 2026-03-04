@@ -15,6 +15,12 @@ switching on the IN0 and IN1 following binary order gives you the function of AN
 ## How to test
 switch on/off IN0 and IN1 following binary order (e.g. 00,01,10,11)
 
+AND GATE 
+IN0 | IN1 | OUT0
+0   | 0   | 0
+0   | 1   | 0
+1   | 0   | 0
+1   | 1   | 1
 
 ## External hardware
 
